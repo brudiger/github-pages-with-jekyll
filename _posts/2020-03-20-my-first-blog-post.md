@@ -1,8 +1,7 @@
 ---
-title: "brudiger Rules OK"
-date: 2020-03-20
+title: "My First Blog"
+date: 2020-03-01
 ---
 
 My first Blog
-
 I like Pizza!
