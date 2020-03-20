@@ -1,5 +1,5 @@
 ---
-title: "brudiger Rules! OK!"
+title: "brudiger Rules OK"
 date: 2020-03-20
 ---
 
